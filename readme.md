@@ -62,6 +62,5 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je opdracht:** https://www.vice.com/nl
 
-**Screenshot(s):**: ![screenshot1](/images/vice.jpg), ![screenshot2](/images/vice1.jpg), ![screenshot3](/images/vice2.jpg), ![screenshot4](/images/vice3.jpg), ![screenshot5](/images/vice4.jpg)
-
+**Screenshot(s):**: ![screenshot1](/images/website-01.jpg)
 **Breakdown-schets(en):** ![bd](/images/breakdown-01.png)

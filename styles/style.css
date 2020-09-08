@@ -82,7 +82,15 @@ h2 {
     font-weight: normal;
 }
 
-div {
+#sectie1 {
+    background-color: white;
+    padding-bottom: 40px;
+    margin-left: -8px;
+    width: 400px;
+    margin-top: -34px;
+}
+
+#sectie2 {
     background-color: white;
     padding-bottom: 40px;
     margin-left: -8px;
@@ -95,3 +103,4 @@ float: right;
 margin-top: -75px;
     padding-right: 24px;
 }
+

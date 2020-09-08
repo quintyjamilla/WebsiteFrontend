@@ -3,3 +3,69 @@
   box-sizing:border-box;  
 }
 
+body {
+    background-color: black;
+}
+
+#menu {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#vicelogo {
+  display: block;
+margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+    
+}
+
+#hamburger {
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#titel {
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 10px;
+    font-size: 22px;
+    margin-top: 0px;
+}
+
+#seks {
+    color: white;
+    margin-top: 60px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    margin-bottom: 7px;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+#main {
+    background-color: black;
+}
+
+#tekst, #auteur {
+    color: white;
+    margin-left: 10px;
+    font-family: arial;
+}
+
+#auteur {
+    font-size: 7px;
+    margin-top: -7px;
+    margin-bottom: 15px;
+}
+
+#imgseksmedewerker {
+    margin-left: 10px;
+}
+
+=

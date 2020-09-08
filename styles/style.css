@@ -48,9 +48,6 @@ margin-left: auto;
     font-size: 12px;
 }
 
-#main {
-    background-color: black;
-}
 
 #tekst, #auteur {
     color: white;
@@ -68,4 +65,13 @@ margin-left: auto;
     margin-left: 10px;
 }
 
-=
+#categorie {
+    background-color: white;
+    padding-left: -100px;
+}
+
+h2 {
+    font-size: 10px;
+    font-family: arial;
+
+}

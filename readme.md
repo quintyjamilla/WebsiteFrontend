@@ -17,8 +17,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 Door persoonlijke omstandigheden heb ik mijn eindgesprek niet gehad in week 7/8. Ik heb in plaats hier van heel erg mijn best gedaan om het werk in te halen en mijn website af te maken. Ik heb samen met Muhammet afgesproken en hij heeft mij een beetje bijgepraat van wat ik had gemist en sommige onderdelen die ik niet begreep uitgelegd. Ook voor vragen heeft hij mij heel kunnen helpen.Ondanks dat het niet altijd helemaal goed ging met mijn code en ik er soms helemaal niks van snapte heb ik toch mijn site afgekregen. Ik heb 'm ook responsive gekregen en daar ben ik heel blij mee. 
 
-[s1](/images/site1.png)
-[s2](/images/site2.png)
+![s1](/images/site1.png)
+![s2](/images/site2.png)
 
 
 ## Voortgang 3 (week 6)
@@ -37,7 +37,7 @@ Hier ging het in mijn persoonlijke leven even heel erg slecht waardoor ik niet n
 
 Het ging hier nog niet zo goed. Ik wilde me heel graag focussen op mijn website responsive maken maar dat ging totaal niet goed. Ik heb daarom hulp gevraagd aan een vriend van mij en die heeft me heel goed kunnen uitleggen wat ik verkeerd deed en waarom het niet responsive was. Hierna wist ik duidelijker wat ik moet doen en ging het een stuk beter. 
 
-[vg](/images/voortgang.png)
+![vg](/images/voortgang.png)
 
 ### Agenda voor meeting
 

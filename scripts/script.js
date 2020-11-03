@@ -7,21 +7,15 @@ button.addEventListener("click", openen);
 
 
 function openen() {
-    
-	if (hamburgermenu.style.display === "block") {
-        
-		hamburgermenu.style.display = "none"
 
-	} else {
+    if (hamburgermenu.style.display === "block") {
+
+        hamburgermenu.style.display = "none"
+
+    } else {
 
         hamburgermenu.style.display = "block";
 
-	};
+    };
 
 };
-
-
-
-
-
-

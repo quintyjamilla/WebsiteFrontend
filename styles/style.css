@@ -28,7 +28,6 @@
          padding: 0% 15%;
      }
  }
-
  /* EINDE RESPONSIVE GROTE SCHERMEN */
 
 
@@ -178,14 +177,10 @@
      color: var(--wit);
  }
 
-header div ul li a {
-    text-decoration: none;
-    color: var (--wit);
-}
-
  main {
      display: flex;
  }
+
 
  .wrapper {
      display: grid;
@@ -238,20 +233,20 @@ header div ul li a {
 img.logowit {
   position: relative;
     z-index: 100;
-    width: 10% !important;
+    width: 15% !important;
     height: auto;
     padding-left: 30px;
  }
 
 img.foto {
-    margin-top: 40px;
+    margin-top: 70px;
 }
 
  .serie {
      display: flex;
      justify-content: space-around;
      background-color: var(--lichtgrijs);
-     margin-top: -86px;
+     margin-top: -150px;
  }
 
  .serie article:nth-child(1) {

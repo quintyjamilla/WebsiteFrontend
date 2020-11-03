@@ -15,24 +15,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Door persoonlijke omstandigheden heb ik mijn eindgesprek niet gehad in week 7/8. Ik heb in plaats hier van heel erg mijn best gedaan om het werk in te halen en mijn website af te maken. Ik heb samen met Muhammet afgesproken en hij heeft mij een beetje bijgepraat van wat ik had gemist en sommige onderdelen die ik niet begreep uitgelegd. Ook voor vragen heeft hij mij heel kunnen helpen.Ondanks dat het niet altijd helemaal goed ging met mijn code en ik er soms helemaal niks van snapte heb ik toch mijn site afgekregen. Ik heb 'm ook responsive gekregen en daar ben ik heel blij mee. 
 
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
-
+[s1](/images/site1.png)
+[s2](/images/site2.png)
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
+In week 6 was ik nog steeds afwezig van school aangezien het nog steeds heel slecht ging persoonlijk waardoor het voor mij bijna onmogelijk was om aan school te werken. I
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
-
+Hier ging het in mijn persoonlijke leven even heel erg slecht waardoor ik niet naar school ben geweest en dus ook niet ben bevorderd in mijn werk. 
 
 
 ## Voortgang 1 (week 3)

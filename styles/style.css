@@ -178,6 +178,11 @@
      color: var(--wit);
  }
 
+header div ul li a {
+    text-decoration: none;
+    color: var (--wit);
+}
+
  main {
      display: flex;
  }

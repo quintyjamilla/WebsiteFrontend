@@ -7,9 +7,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.zen-cart.com/showthread.php?201883-CSS-Chalenge-How-to-bring-image-layer-to-the-front
+2. https://www.w3schools.com/
+3. https://dzone.com/articles/using-csshtml-make-responsive
+4. https://www.vice.com/en
+5. https://css-tricks.com/snippets/css/complete-guide-grid/
+6. https://developer.mozilla.org/en-US/docs/Web/CSS/var
+7. https://css-tricks.com/useful-nth-child-recipies/
 
 
 

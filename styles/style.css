@@ -15,24 +15,14 @@
  }
 
 
-
-
-
-
-
-
-
  /* BEGIN RESPONSIVE GROTE SCHERMEN */
  @media only screen and (min-width: 1600px) {
      body {
          padding: 0% 15%;
      }
  }
+
  /* EINDE RESPONSIVE GROTE SCHERMEN */
-
-
-
-
 
 
 
@@ -163,10 +153,6 @@
 
 
 
-
-
-
-
  /* BEGIN MAIN */
  h1 {
      padding: 10px 50px 0px 30px;
@@ -224,23 +210,19 @@
 
 
 
-
-
-
-
  /* BEGIN 2e PAGINA */
 
-img.logowit {
-  position: relative;
-    z-index: 100;
-    width: 15% !important;
-    height: auto;
-    padding-left: 30px;
+ img.logowit {
+     position: relative;
+     z-index: 100;
+     width: 15% !important;
+     height: auto;
+     padding-left: 30px;
  }
 
-img.foto {
-    margin-top: 70px;
-}
+ img.foto {
+     margin-top: 70px;
+ }
 
  .serie {
      display: flex;
@@ -312,12 +294,6 @@ img.foto {
  }
 
  /* EINDE 2E PAGINA */
-
-
-
-
-
-
 
 
 

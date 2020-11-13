@@ -1,21 +1,12 @@
 // JavaScript Document
 
-var hamburgermenu = document.querySelector(".hamburger-menu");
-var button = document.querySelector("#hamburger-knop");
-
-button.addEventListener("click", openen);
-
+var buttonOpen = document.querySelector('#hamburger-knop');
+var buttonSluit = document.querySelector('#hamburger-knop');
+var lijst = document.querySelector('.hamburger-menu');
 
 function openen() {
+    lijst.classList.toggle('open');
+}
 
-    if (hamburgermenu.style.display === "block") {
+buttonOpen.addEventListener('click', openen);
 
-        hamburgermenu.style.display = "none"
-
-    } else {
-
-        hamburgermenu.style.display = "block";
-
-    };
-
-};

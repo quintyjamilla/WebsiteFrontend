@@ -16,6 +16,7 @@
 
 
  /* BEGIN RESPONSIVE GROTE SCHERMEN */
+
  @media only screen and (min-width: 1600px) {
      body {
          padding: 0% 15%;
@@ -112,16 +113,23 @@
      height: 100%;
      color: var(--wit);
      border-top: 1px solid var(--grijs);
-     background-color: var(--zwart);
+     background-color: var(--zwart);  
+     transition: 2s;
  }
+
+.open {
+    display: block;
+}
+
 
  .hamburger-menu ul {
      list-style-type: none;
-     margin: 20px 0px 0px 0px;
+     margin: 20px 0px 0px 0px;   
  }
 
  .hamburger-menu ul li {
      padding: 10px 0px;
+     
  }
 
  .mobiel-leegruimte {
@@ -232,7 +240,7 @@
  }
 
  .serie article:nth-child(1) {
-     width: 50%;
+     width: %;
      height: auto;
      text-align: center;
  }
